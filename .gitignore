@@ -1,0 +1,17 @@
+# Ignore technical challenge reference files
+Technical challenge/
+
+# Virtual environments
+.venv/
+venv/
+ethiopia-fi-forecast/.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
