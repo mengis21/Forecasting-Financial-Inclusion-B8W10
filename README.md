@@ -49,6 +49,4 @@ Outputs:
 - Starter dataset: ethiopia_fi_unified_data.xlsx
 - Reference codes: reference_codes.xlsx
 
-## Report
 
-- Final report: `reports/final_report.md`
