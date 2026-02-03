@@ -1,0 +1,9 @@
+event_id,event_category,event_date,ACC_4G_COV,ACC_MM_ACCOUNT,ACC_OWNERSHIP,AFF_DATA_INCOME,GEN_GAP_ACC,USG_MPESA_ACTIVE,USG_MPESA_USERS,USG_P2P_COUNT,USG_TELEBIRR_USERS
+EVT_0001,product_launch,2021-05-17,,,15.0,,,,,25.0,0.0
+EVT_0002,market_entry,2022-08-01,15.0,,,20.0,,,,,
+EVT_0003,product_launch,2023-08-01,,5.0,,,,,0.0,,
+EVT_0004,infrastructure,2024-01-01,,,10.0,,5.0,,,,
+EVT_0005,policy,2024-07-29,,,,30.0,,,,,
+EVT_0007,partnership,2025-10-27,,,,,,15.0,,10.0,
+EVT_0008,infrastructure,2025-12-18,,,,,,,,15.0,
+EVT_0010,pricing,2025-12-15,,,,10.0,,,,,

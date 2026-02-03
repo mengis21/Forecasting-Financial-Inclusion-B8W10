@@ -1,0 +1,16 @@
+indicator_code,indicator,year,scenario,forecast_value
+ACC_OWNERSHIP,"Account Ownership Rate (%, adults 15+)",2025,base,55.17148845235933
+ACC_OWNERSHIP,"Account Ownership Rate (%, adults 15+)",2026,base,58.15353900947402
+ACC_OWNERSHIP,"Account Ownership Rate (%, adults 15+)",2027,base,61.077167297330504
+ACC_OWNERSHIP,"Account Ownership Rate (%, adults 15+)",2025,optimistic,60.061779544297146
+ACC_OWNERSHIP,"Account Ownership Rate (%, adults 15+)",2026,optimistic,63.36108884976008
+ACC_OWNERSHIP,"Account Ownership Rate (%, adults 15+)",2027,optimistic,66.53968220422209
+ACC_OWNERSHIP,"Account Ownership Rate (%, adults 15+)",2025,pessimistic,50.17909877556942
+ACC_OWNERSHIP,"Account Ownership Rate (%, adults 15+)",2026,pessimistic,52.75769625153682
+ACC_OWNERSHIP,"Account Ownership Rate (%, adults 15+)",2027,pessimistic,55.32166334991451
+USG_P2P_COUNT,"P2P Transactions (count, proxy for digital usage)",2026,base,331205030.1810833
+USG_P2P_COUNT,"P2P Transactions (count, proxy for digital usage)",2027,base,855002120.1656482
+USG_P2P_COUNT,"P2P Transactions (count, proxy for digital usage)",2026,optimistic,532147538.76566386
+USG_P2P_COUNT,"P2P Transactions (count, proxy for digital usage)",2027,optimistic,1741285134.3476777
+USG_P2P_COUNT,"P2P Transactions (count, proxy for digital usage)",2026,pessimistic,206139771.44702777
+USG_P2P_COUNT,"P2P Transactions (count, proxy for digital usage)",2027,pessimistic,419821321.08513916
